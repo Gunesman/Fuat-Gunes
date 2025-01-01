@@ -1,118 +1,97 @@
-## Hello 👋, I'm Fuat Gunes - Data Scientist
-
-**A data scientist specializing in advanced analytics and machine learning, dedicated to transforming complex data into actionable insights that support strategic decision-making.** I am passionate about extracting meaningful information from data and leveraging it to solve real-world problems.
-
-- 🔭 I’m currently focusing on: Deepening my knowledge in deep learning and natural language processing (NLP), and applying these techniques to real-world problems.
-- 👯 I’m open to collaboration on: Data science projects, especially in the **finance, healthcare, or e-commerce** sectors, as well as Kaggle competitions or open-source projects.
-- 💬 Ask me about: Anything related to data analysis, machine learning, statistical modeling, and data visualization.
-- 📫 How to reach me: [Insert your email address here] - [LinkedIn Profile](www.linkedin.com/in/fuat-gunes)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: In my free time, I enjoy reading data science blogs and playing chess.
-
-### 💼 Skills and Areas of Expertise
-
-#### Programming Languages & Tools:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-#### Data Science Libraries & Frameworks:
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge)
-
-#### Data Visualization:
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-82c6e1?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-20232A?style=for-the-badge&logo=plotly&logoColor=3F4F75)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-#### Cloud Computing & Big Data:
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-F05032?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
-
-#### Areas of Expertise:
-
-*   Machine Learning (Supervised/Unsupervised Learning, Deep Learning)
-*   Statistical Modeling and Analysis
-*   Data Mining and Data Cleaning
-*   Feature Engineering and Selection
-*   Model Evaluation and Optimization
-*   A/B Testing and Hypothesis Testing
-*   Natural Language Processing (NLP) - Basic Level (Improving)
-*   Time Series Analysis
-
-### 🏆 Featured Project: AutoScout Car Price Prediction EDA
-
-**Project Link:** [Insert Project Repo Link Here]
-
-**Project Overview:**
-
-This project is an exploratory data analysis (EDA) initiative focused on car price prediction using a dataset scraped from an online car trading platform in 2022. The dataset encompasses 13 car makes, 594 models, and various features, offering a rich source for data exploration and cleaning. This project serves as a bridge between the Data Analysis and Data Visualization courses, with successful completion being a prerequisite for certification.
-
-**Project Stages:**
-
-1. **Data Cleaning:**
-    *   Correcting incorrect headers and standardizing data formats.
-    *   Identifying and addressing data anomalies (inconsistencies).
-    *   Removing unnecessary columns.
-
-2. **Handling Missing Values (Imputation):**
-    *   Filling missing values for both categorical and numerical features.
-    *   Employing imputation techniques to ensure data completeness without compromising integrity.
-    *   Transforming categorical data into numerical form through encoding for compatibility with analysis and modeling tools.
-
-3. **Handling Outliers:**
-    *   Identifying outliers using statistical and graphical methods.
-    *   Extracting meaningful insights by exploring relationships between variables.
-    *   Making informed decisions about retaining, transforming, or removing outliers based on their impact on the dataset.
-
-**Key Learnings and Skills:**
-
-*   A deep understanding of exploratory data analysis and its significance in data science.
-    *   Proficiency in cleaning, organizing, and analyzing real-world datasets.
-    *   Strengthening Python programming skills by applying a variety of libraries, such as NumPy, Pandas, Matplotlib, Seaborn, and SciPy.
-    *   Generating meaningful visualizations to support insights and decision-making.
-    *   Preparing datasets suitable for predictive modeling, laying a foundation for machine learning applications.
-
-**Significance of EDA:**
-
-Exploratory Data Analysis (EDA) enables a thorough understanding of the dataset, identifies missing data, outliers, and relationships between variables. It helps formulate and test hypotheses to guide future modeling efforts. It prepares datasets that align with business objectives and modeling requirements.
-
-**Repository Guidelines:**
-
-*   Participants are required to complete the project as outlined above.
-    *   Commit the solution to their GitHub repository as part of their professional portfolio.
-    *   Submit the GitHub repository link via the designated platform.
-
-**Note:** If you have any visuals from the project, please send them to me, and I will add them to the README.
-
-### 🌱  Continuously Learning
-
-The field of data science is constantly evolving, and I am committed to continuous learning to stay up-to-date. Currently, I am focusing on:
-
-- Advanced Deep Learning Techniques
-- Reinforcement Learning
-- MLOps (Machine Learning Operations)
-
-### 📊 My GitHub Stats
-
-![Fuat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuat-Gunes&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuat-Gunes&layout=compact&theme=radical)
+## 
+<div align="center">
+<img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" width="500px">
+</div>
+<div align="center"> <h1 align="center"> Hi There! This is FUAT GÜNEŞ 👋 </h1> </div>
+<h3 align="center">💬 Motivated tech enthusiast and Data Scientist from BELGIUM 💬</h3>
 
 ---
 
+<div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/fuat-gunes/">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:fuatgunes01@gmail.com">  
+  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+<a href="https://medium.com/@fuatgunes">
+  <img align="center" src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/fuatgunes">
+  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+</a>
+<a href="https://github.com/Gunesman">
+  <img align="center" src="https://komarev.com/ghpvc/?username=Gunesman" alt="Profile Views" width="16%"/>
+</a>
+</p>
+
+---
+
+<div align="center"> <h1 align="center"> 💻 DATA VISUALIZATION </h1> </div>
+<p align="center">
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
+</p>
+
+---
+
+<div align="center"> <h1 align="center"> 📚 LIBRARIES </h1> </div>
+<p align="center">
+<a href="#" target="_blank"> <img align="center" src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="70"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://scipy.org/images/logo.svg" alt="SciPy" width="120"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
+</p>
+
+---
+
+<div align="center"> <h1 align="center"> 🖥 LANGUAGES </h1> </div>
+<p align="center">
+<a href="#" target="_blank"> <img align="center" src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="SQLite" height="60"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" height="60"/> </a>
+</p>
+
+---
+
+<div align="center"> <h1 align="center"> ⚙ TOOLS </h1> </div>
+<p align="center">
+<a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="gitHub" height="50"/> </a>
+</p>
+
+---
+
+<div align="center"> <h1 align="center"> 📊 STATISTICS </h1> </div>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gunesman&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gunesman&theme=algolia" alt="my commit status" width="48.2%"/>
+</p>
+
+---
+
+<div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
+<p align="center">
+<a href="https://github.com/Gunesman/01_DATA_SCIENCE_NOTEBOOKS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gunesman&repo=01_DATA_SCIENCE_NOTEBOOKS&theme=algolia" />
+</a>
+<a href="https://github.com/Gunesman/02_ASSIGNMENTS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gunesman&repo=02_ASSIGNMENTS&theme=algolia" />
+</a>
+<a href="https://github.com/Gunesman/03_PROJECTS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gunesman&repo=03_PROJECTS&theme=algolia" />
+</a>
+<a href="https://github.com/Gunesman/04_PYTHON">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gunesman&repo=04_PYTHON&theme=algolia" />
+</a>
+<a href="https://github.com/Gunesman/05_SQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gunesman&repo=05_SQL&theme=algolia" />
+</a>
+</p>
