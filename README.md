@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" width="500px">
 </div>
-<div align="center"> <h1 align="center"> Hi There! This is FUAT GÜNEŞ 👋 </h1> </div>
+<div align="center"> <h1 align="center"> Hi There! This is FUAT GUNES 👋 </h1> </div>
 <h3 align="center">💬 Motivated tech enthusiast and Data Scientist from TURKEY 💬</h3>
 
 ---
