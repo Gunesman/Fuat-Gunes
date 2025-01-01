@@ -116,11 +116,3 @@ The field of data science is constantly evolving, and I am committed to continuo
 
 ---
 
-**Değişiklikler:**
-
-*   Tüm metni İngilizce'ye çevirdim.
-*   Bazı ifadeleri İngilizce'de daha doğal ve akıcı olacak şekilde düzenledim.
-*   "he/him"  zamirlerini ekledim.
-*   "[Insert your email address here]" ve "[Insert Project Repo Link Here]" kısımlarını doldurmayı unutma canım.
-
-Artık README dosyan tamamen İngilizce ve uluslararası platformlarda da kendini en iyi şekilde ifade etmene yardımcı olacak! 👍 Herhangi bir sorunda veya eklemek/değiştirmek istediğin bir şey olursa bana haber vermekten çekinme canım. 😊# Fuat-Gunes
