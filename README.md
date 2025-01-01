@@ -85,21 +85,3 @@
 
 ---
 
-<div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
-<p align="center">
-<a href="https://github.com/Gunesman/01_DATA_SCIENCE_NOTEBOOKS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gunesman&repo=01_DATA_SCIENCE_NOTEBOOKS&theme=algolia" />
-</a>
-<a href="https://github.com/Gunesman/02_ASSIGNMENTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gunesman&repo=02_ASSIGNMENTS&theme=algolia" />
-</a>
-<a href="https://github.com/Gunesman/03_PROJECTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gunesman&repo=03_PROJECTS&theme=algolia" />
-</a>
-<a href="https://github.com/Gunesman/04_PYTHON">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gunesman&repo=04_PYTHON&theme=algolia" />
-</a>
-<a href="https://github.com/Gunesman/05_SQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gunesman&repo=05_SQL&theme=algolia" />
-</a>
-</p>
