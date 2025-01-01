@@ -1,4 +1,4 @@
-## Hello 👋, I'm Fuat Güneş - Data Scientist
+## Hello 👋, I'm Fuat Gunes - Data Scientist
 
 **A data scientist specializing in advanced analytics and machine learning, dedicated to transforming complex data into actionable insights that support strategic decision-making.** I am passionate about extracting meaningful information from data and leveraging it to solve real-world problems.
 
